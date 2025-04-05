@@ -1,4 +1,4 @@
-# BoAt_Electronic_company_sales-
+# BoAt_Electronic_Company_Sales-
 
 Power BI Sales & Profit Dashboard | BoAt Electronics Dataset
 I recently worked on a 3-page interactive Power BI dashboard to analyze sales, profit, customer behavior, and shipping trends for a leading electronics company (BoAt).
