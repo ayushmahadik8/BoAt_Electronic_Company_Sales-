@@ -20,7 +20,7 @@ I recently worked on a 3-page interactive Power BI dashboard to analyze sales, p
 This dashboard provides actionable insights for business growth & decision-making. 🚀
 
 
-Page 1: Sales & Profit Overview
+Page 1: Sales & Profit Overview.
 
 ![B1](https://github.com/user-attachments/assets/d72afc3d-b272-437e-8834-c50f323cb0f6)
 
