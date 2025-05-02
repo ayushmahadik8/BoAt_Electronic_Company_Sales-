@@ -3,7 +3,7 @@
 Power BI Sales & Profit Dashboard | BoAt Electronics Dataset
 I recently worked on a 3-page interactive Power BI dashboard to analyze sales, profit, customer behavior, and shipping trends for a leading electronics company (BoAt).
 
-🔹 Key Insights:
+🔹 Key Insights:-
 
  ✔️ Top-selling & most profitable categories/products. 
  
